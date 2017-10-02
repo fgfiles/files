@@ -709,6 +709,7 @@ Form
   top: 0;
   height: 40px;
   width: 40px;
+  margin: 5px;
   background: url(../img/cd-icon-close.svg) no-repeat center center;
   -webkit-transform: scale(0);
   -moz-transform: scale(0);
