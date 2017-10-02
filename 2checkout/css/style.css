@@ -613,11 +613,12 @@ Form
   padding-top: 0;
 }
 .cd-form legend {
-  width: 100%;
-  font-size: 2.3rem;
-  line-height: 1.2;
-  padding-bottom: 0.3em;
-  border-bottom: 1px solid #d6d4d4;
+     width: 100%;
+    font-size: 2.3rem;
+    line-height: 1.2;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid #0d8203;
+    color: #0c6504;
 }
 .cd-form input[type="radio"],
 .cd-form label {
