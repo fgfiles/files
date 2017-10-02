@@ -466,7 +466,7 @@ Form
 .cd-form {
   position: fixed;
   z-index: 3;
-  background-color: #ffffff;
+  background-color: #f9f9f9;
   border-radius: .25em;
   visibility: hidden;
   -webkit-transition: visibility 0s 0.8s;
@@ -624,11 +624,11 @@ Form
   cursor: pointer;
 }
 .cd-form label {
-  font-size: 1rem;
+  font-size: 11px;
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: #b2b2b2;
+  color: #505050;
 }
 .cd-form input[type="radio"] + label {
   color: #fff;
