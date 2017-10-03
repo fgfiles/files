@@ -619,6 +619,7 @@ Form
     padding-bottom: 0.3em;
     border-bottom: 1px solid #0d8203;
     color: #0c6504;
+    font-weight: bold;
 }
 .cd-form input[type="radio"],
 .cd-form label {
