@@ -12,7 +12,6 @@ html {
 }
 
 body {
-  font-size: 1.6rem;
   font-family: "Open Sans", sans-serif;
   color: #0f222b;
   background-color: #fff;
@@ -613,7 +612,7 @@ Form
   padding-top: 0;
 }
 .cd-form legend {
-     width: 100%;
+  width: 100%;
     font-size: 2.3rem;
     line-height: 1.2;
     padding-bottom: 0.3em;
@@ -626,11 +625,11 @@ Form
   cursor: pointer;
 }
 .cd-form label {
-  font-size: 11px;
+  font-size: 1rem;
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: #505050;
+  color: #b2b2b2;
 }
 .cd-form input[type="radio"] + label {
   color: #fff;
@@ -639,15 +638,17 @@ Form
 .cd-form input[type="email"],
 .cd-form input[type="password"],
 .cd-form select {
-  -webkit-appearance: none;
+/*  -webkit-appearance: none;
   -moz-appearance: none;
   -ms-appearance: none;
   -o-appearance: none;
-  appearance: none;
+  appearance: none;*/
   height: 45px;
+  width: 100%;
   border: 2px solid #d6d4d4;
   border-radius: 0;
   background: transparent;
+  margin-top: 5.8px;
 }
 .cd-form input[type="text"]:focus,
 .cd-form input[type="email"]:focus,
