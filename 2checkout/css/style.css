@@ -860,15 +860,26 @@ Buttons
 .cd-pricing-footer a, .cd-form input[type="submit"] {
   display: inline-block;
   padding: 1em 1.8em;
-  border-radius: 50em;
+/*  border-radius: 50em;*/
   text-transform: uppercase;
-  font-size: 1.3rem;
+  font-size: 16px;
   font-weight: bold;
 }
 
+
+
 .cd-pricing-footer a {
-    border: 2px solid #9a6a20;
-    color: #BB9458;
+    border: 1px solid #a07532;
+    color: #ffffff;
+    background-color: #ab8140;
+    width: 250px;
+}
+
+.cd-pricing-footer a:hover {
+     border: 1px solid #a07532;
+    color: #ffffff;
+    background-color: #9e722d;
+    width: 250px;
 }
 
 .cd-form input[type="submit"] {
