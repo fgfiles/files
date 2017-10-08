@@ -869,14 +869,14 @@ Buttons
 
 
 .cd-pricing-footer a {
-    border: 1px solid #a07532;
+    border-bottom: 4px solid #a07532;
     color: #ffffff;
     background-color: #ab8140;
     width: 250px;
 }
 
 .cd-pricing-footer a:hover {
-     border: 1px solid #a07532;
+     border-bottom: 4px solid #a07532;
     color: #ffffff;
     background-color: #9e722d;
     width: 250px;
